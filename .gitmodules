@@ -1,0 +1,3 @@
+[submodule "flightlog/themes/hello-friend-ng"]
+	path = flightlog/themes/hello-friend-ng
+	url = https://github.com/therealfakemoot/hugo-theme-hello-friend-ng.git
